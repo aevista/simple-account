@@ -1,1 +1,5 @@
-*~
+#backups
+simpleacc/*~
+
+#auto generated idea folder
+simpleacc/.idea
